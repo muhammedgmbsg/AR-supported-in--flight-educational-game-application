@@ -18,10 +18,10 @@ An interactive mobile application developed with technologies such as increased 
 ---
 
 ## App Videos
-<iframe width="640" height="360"
-  src="https://www.youtube.com/embed/tE-3dke8MOY"
-  frameborder="0" allowfullscreen>
-</iframe>
+
+https://github.com/user-attachments/assets/c27cacd1-009b-436c-b9b7-dcbfe6a508b6
+
+
 
 ## Website  
 🔗 [https://airjetkids.github.io/](https://airjetkids.github.io/)
