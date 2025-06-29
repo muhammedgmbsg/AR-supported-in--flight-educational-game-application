@@ -89,19 +89,6 @@ An interactive mobile application developed using technologies like Augmented Re
 10. **Tutorial screens included for each game and scoring system explanation**
 
 ---
-
-## Installation & Run
-
-```bash
-# Clone the repository
-git clone <REPO_URL>
-cd <PROJECT_FOLDER>
-
-# Get dependencies
-flutter pub get
-
-# Launch the app
-flutter run
 Videos & Downloads
 Full Project Introduction Video:
 🔗 https://youtu.be/xSlaiuqp3Vk
@@ -117,3 +104,19 @@ Project Presentation File:
 
 Final Version Presentation PDF:
 🔗 Click here
+
+## Installation & Run
+
+```bash
+# Clone the repository
+git clone <REPO_URL>
+cd <PROJECT_FOLDER>
+
+# Get dependencies
+flutter pub get
+
+# Launch the app
+flutter run
+'''
+
+
