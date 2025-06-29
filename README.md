@@ -13,7 +13,7 @@
 
 ## Project Introduction
 
-An interactive mobile application developed using technologies like Augmented Reality to ensure children have an educational and entertaining flight experience. It allows users to draw flight routes between cities on a map of Turkey. At each stop, children can play AR-enhanced memory card games and age-based word puzzle games with scoring systems, timers, and hints.
+An interactive mobile application developed with technologies such as increased reality in order to enable children to have a quality and productive journey during air travel. It draws flight routes between the cities chosen by users on the map of Türkiye; It provides children with a fun and educational flight experience by offering word puzzle games that contain parameters such as enriched reality in each city and parameters such as scoring time.
 
 ---
 
