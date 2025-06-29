@@ -97,13 +97,13 @@ Latest App Demo Video:
 🔗 https://youtu.be/tE-3dke8MOY
 
 Download Latest APK:
-🔗 Click here
+🔗 https://github.com/muhammedgmbsg/AR-supported-in--flight-educational-game-application/tree/main/Apk
 
 Project Presentation File:
-🔗 Click here
+🔗 https://github.com/muhammedgmbsg/AR-supported-in--flight-educational-game-application/tree/main/Documentation
 
 Final Version Presentation PDF:
-🔗 Click here
+🔗 https://github.com/muhammedgmbsg/AR-supported-in--flight-educational-game-application/blob/main/Documentation/Proje%20Sunumu/Proje%20Son%20S%C3%BCr%C3%BCm%20Sunum(PDF).pdf
 
 ## Installation & Run
 
