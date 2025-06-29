@@ -35,28 +35,6 @@ An interactive mobile application developed using technologies like Augmented Re
 ## Trello Board  
 🔗 [https://trello.com/b/frMMlU0m/airjet-kids](https://trello.com/b/frMMlU0m/airjet-kids)
 
----
-
-## Mobile App Code Structure
-
-- **`lib/main.dart`** – App entry point, initializes `GetStorage`, loads `RouteSelectionScreen`.  
-- **`lib/homeScreen.dart`** – Allows users to select departure/destination cities.  
-- **`lib/routeScreen.dart`** – Displays the selected route on Turkey’s map with plane/city icons.  
-- **`lib/cityDetailsScreen.dart`** – Shows AR model preview and a button to start the game.  
-- **`lib/r.dart`** – Uses `ar_flutter_plugin` to render a GLTF model in the AR scene.  
-- **`lib/gameOnboard.dart`** – Displays puzzle rules and leads to game start.  
-- **`lib/gameStartScreen.dart`** – Shows leaderboard and game options.  
-- **`lib/gameScreen.dart`** – Main puzzle gameplay screen (timer, score, hints, etc.).  
-- **`lib/puzzleController.dart`** – GetX controller handling game logic, timer, scoring.  
-- **`lib/awartWidget.dart`** – PageView widget to show top scoring users.  
-- **`lib/awart.dart`** – Data model for storing user and score.  
-- **`lib/city.dart`** – Defines metadata for cities (AR model, coordinates, hints).  
-- **`lib/flightRoute.dart`** – Model for flight routes including stops.  
-- **`lib/logManager.dart`** – Stores in-app logs.  
-- **`lib/logScreen.dart`** – Displays log records in a scrollable list.
-
----
-
 ## Requirements
 
 - **Flutter SDK (≥ 2.10)**  
