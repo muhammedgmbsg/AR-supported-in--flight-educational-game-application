@@ -19,7 +19,7 @@ An interactive mobile application developed with technologies such as increased 
 
 ##App Videos
 <iframe width="640" height="360"
-  src="https://youtu.be/tE-3dke8MOY"
+  src="https://www.youtube.com/embed/tE-3dke8MOY"
   frameborder="0" allowfullscreen>
 </iframe>
 
