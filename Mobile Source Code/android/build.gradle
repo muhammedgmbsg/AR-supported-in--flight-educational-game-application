@@ -1,0 +1,35 @@
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    // Her modülün build çıktısını yeniden yönlendiriyoruz
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+
+    // app modülünün okunması için
+  //  project.evaluationDependsOn(":app")
+}
+
+// <<< Buraya ekleyin:
+subprojects {
+    afterEvaluate { proj ->
+        if (proj.plugins.hasPlugin("com.android.application") ||
+            proj.plugins.hasPlugin("com.android.library")) {
+            proj.android {
+                // Uygulamanızla aynı SDK sürümünü kullanın
+                compileSdkVersion 34
+                buildToolsVersion "34.0.0"
+            }
+        }
+    }
+}
+// <<< Ekleme sonu
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056053513868",
+    "project_id": "airjetkids-9d045",
+    "storage_bucket": "airjetkids-9d045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056053513868:android:98ea69a57240f9d7f175a9",
+        "android_client_info": {
+          "package_name": "com.example.ar_beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6UX0pEbJXXYn7S9jFUyy_qMwH3AGU7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
